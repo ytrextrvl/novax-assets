@@ -1,6 +1,6 @@
 # Documentation
 
-This folder will contain:
-- Architecture notes
-- Usage contracts
-- Operational references
+This repository follows NOVAX enterprise standards.
+
+Authoritative governance (SSOT):
+https://github.com/ytrextrvl/novax-docs
