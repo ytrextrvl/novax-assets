@@ -1,0 +1,13 @@
+repo,default_branch,visibility,archived,fork,workflows_count,has_readme,has_license,has_security,has_contributing,has_codeowners,has_gitignore,has_env_example,has_dockerfile,has_compose,has_package_json,has_composer_json,has_pubspec,has_android_gradle,has_ios_podfile,secret_hits
+y,rex,rvl/novax-backend	mas,er	public	false	false	h,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-shared	main	public	false	false	h,,ps://gi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-da,a	main	public	false	false	h,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-ai	main	public	false	false	h,,ps://gi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-asse,s	chore/ini,-novax-asse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-docs	main	public	false	false	h,,ps://gi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/NPD	main	public	false	false	h,,ps://gi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-,ravel	main	public	false	false	h,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/.gi,hub	main	public	false	false	h,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-infra	main	public	false	false	h,,ps://gi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-mobile	mas,er	public	false	false	h,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+y,rex,rvl/novax-admin	main	public	false	false	h,,ps://gi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
