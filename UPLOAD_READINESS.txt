@@ -1,0 +1,56 @@
+NOVAX ASSETS — UPLOAD READINESS REPORT
+========================================
+Date: 2025-12-27T18:07:47
+Root: /data/data/com.termux/files/home/storage/downloads/NOVAX_ASSETS_FINAL_20251227_114038
+
+1) COUNTS
+- png: 195
+- svg: 148
+- pdf: 129
+- json: 1
+- webmanifest: 1
+- ico: 1
+- md: 1
+- txt: 2
+
+2) MUST-HAVE FILES
+- ✅ PWA icon-192: pwa/icons/icon-192.png (14125 bytes)
+- ✅ PWA icon-512: pwa/icons/icon-512.png (56761 bytes)
+- ✅ PWA maskable-512: pwa/icons/maskable-512.png (56761 bytes)
+- ✅ Apple touch 180: pwa/icons/apple-touch-icon.png (12840 bytes)
+- ✅ manifest.webmanifest: pwa/manifest.webmanifest (480 bytes)
+- ✅ favicon.ico: web/favicons/favicon.ico (32038 bytes)
+- ✅ Android playstore 512: mobile/android/ic_launcher-playstore-512.png (56761 bytes)
+- ❌ iOS Contents.json: mobile/ios/AppIcon.appiconset/Contents.json (0 bytes)
+- ✅ Social 1200x630: social/novax_social_1200x630.png (52168 bytes)
+
+3) PNG VALIDITY (sample + quick verify)
+- checked (cap): 195
+- ✅ No issues in checked PNGs
+
+4) DARK/LIGHT AUDIT
+- log: _reports/dark_light_audit.log
+
+5) DUPLICATES (quick on brand/ only)
+- Found 9 duplicate groups (sha1 head)
+  - brand/png/novax_logo_horizontal.png | brand/png/novax_logo_horizontal_01.png
+  - brand/png/novax_logo_horizontal_01_dark.png | brand/png/novax_logo_horizontal_dark.png
+  - brand/png/novax_logo_horizontal_01_light.png | brand/png/novax_logo_horizontal_light.png
+  - brand/png/novax_logo_vertical_dark.png | brand/png/novax_logo_vertical_01_dark.png
+  - brand/png/novax_logo_vertical_light.png | brand/png/novax_logo_vertical_01_light.png
+  - brand/png/novax_logo_vertical.png | brand/png/novax_logo_vertical_01.png
+  - brand/svg/novax_logo_horizontal_01.svg | brand/svg/novax_logo_primary.svg
+  - brand/svg/novax_logo_horizontal_01_dark.svg | brand/svg/novax_logo_primary_dark.svg
+  - brand/svg/novax_logo_horizontal_01_light.svg | brand/svg/novax_logo_primary_light.svg
+
+6) WHAT WILL BE PUSHED TO GITHUB
+- brand/
+- pwa/
+- web/
+- mobile/
+- social/
+- _reports/
+- README.md / LICENSE / REPORT_FINAL.txt / INVENTORY_FINAL.csv / this report
+
+7) READY STATUS
+⚠ NEEDS REVIEW (see above)
