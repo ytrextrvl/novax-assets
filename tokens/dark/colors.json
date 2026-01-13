@@ -1,0 +1,6 @@
+{
+  "brand": { "primary": "#2DD4BF", "accent": "#FB923C", "navy": "#020617" },
+  "background": { "app": "#020617", "surface": "#020617" },
+  "text": { "primary": "#F8FAFC", "secondary": "#CBD5F5", "muted": "#64748B" },
+  "border": "#1E293B"
+}
